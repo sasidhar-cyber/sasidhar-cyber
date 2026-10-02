@@ -53,12 +53,25 @@ I learn by building practical labs, solving CTF challenges and documenting my cy
 
 ## 🚀 Cybersecurity Projects
 
-- 🛡️ Cybersecurity Roadmap
-- 🔬 Cyber Labs
-- 🐧 Linux Security
-- 🌐 Web Security Labs
-- 🏴‍☠️ CTF Writeups
-- 🔐 Security Scripts
+## 🚀 Cybersecurity Projects
+
+### 🛡️ [Cybersecurity Roadmap](https://github.com/sasidhar-cyber/cybersecurity-roadmap)
+Structured roadmap for learning cybersecurity from fundamentals to advanced topics.
+
+### 🔬 [Cyber Labs](https://github.com/sasidhar-cyber/cyber-labs)
+Practical cybersecurity labs covering Linux, networking, Nmap, Wireshark and security fundamentals.
+
+### 🐧 [Linux Security](https://github.com/sasidhar-cyber/linux-security)
+Linux security, permissions, hardening, networking and defensive security.
+
+### 🌐 [Web Security Labs](https://github.com/sasidhar-cyber/web-security-labs)
+Hands-on web security labs covering OWASP, XSS, SQL injection and secure coding.
+
+### 🏴‍☠️ [CTF Writeups](https://github.com/sasidhar-cyber/ctf-writeups)
+CTF challenges, techniques, solutions and cybersecurity learning notes.
+
+### 🔐 [Security Scripts](https://github.com/sasidhar-cyber/security-scripts)
+Python and Bash scripts for cybersecurity automation and security utilities.
 
 ---
 
