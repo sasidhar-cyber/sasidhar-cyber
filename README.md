@@ -53,8 +53,6 @@ I learn by building practical labs, solving CTF challenges and documenting my cy
 
 ## 🚀 Cybersecurity Projects
 
-## 🚀 Cybersecurity Projects
-
 ### 🛡️ [Cybersecurity Roadmap](https://github.com/sasidhar-cyber/cybersecurity-roadmap)
 Structured roadmap for learning cybersecurity from fundamentals to advanced topics.
 
